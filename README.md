@@ -6,13 +6,13 @@
 
 There are a series of available ESP32 modules. In this project an ESP32-S is employed. THe development board contains the chip, imbedded wifi and bluetooth functionality, and a small camera connnected to the chip. This board can be seen below:
 
-![ESP-32 Camera Development Board](https://github.com/cgrundman/esp32_image_processor/blob/main/esp32_cam.png)
+<img src="https://github.com/cgrundman/esp32_image_processor/blob/main/esp32_cam.png" alt="ESP32 Camera Module" width=200 />
 
 ## Supplimentary Board
 
 This board must be powered. The following developement board provides easy power and wired connection via USB.
 
-![ESP-32 Camera Modeule](https://github.com/cgrundman/esp32_image_processor/blob/main/esp32_cam_board.png)
+<img src="https://github.com/cgrundman/esp32_image_processor/blob/main/esp32_cam_board.png" alt="ESP32 Camera Dev Board" width=200 />
 
 All of the hardware above was purchased on [Amazon.com](https://www.amazon.de/gp/product/B08P1NMPLL/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1).
 
