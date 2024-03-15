@@ -1,4 +1,5 @@
 #include "esp_camera.h"
+#include "secrets.h"
 #include <WiFi.h>
 
 //
@@ -35,8 +36,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "FRITZ!Box 7430 RV";
-const char* password = "49346973401360959147";
+const char* ssid = "WIFI_SSID";
+const char* password = "WIFI_PASSWORD";
 
 void startCameraServer();
 void setupLedFlash(int pin);
