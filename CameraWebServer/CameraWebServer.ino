@@ -34,12 +34,6 @@
 
 #include "camera_pins.h"
 
-// ===========================
-// Enter your WiFi credentials
-// ===========================
-const char* ssid = "WIFI_SSID";
-const char* password = "WIFI_PASSWORD";
-
 void startCameraServer();
 void setupLedFlash(int pin);
 
@@ -47,6 +41,9 @@ void setup() {
   Serial.begin(115200);
   Serial.setDebugOutput(true);
   Serial.println();
+
+  size_t psram_size = esp_spiram_get_size();
+  printf("PSRAM size: %d bytes\n", psram_size);
 
   camera_config_t config;
   config.ledc_channel = LEDC_CHANNEL_0;
