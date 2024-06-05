@@ -1,5 +1,5 @@
-/**********************************************************************
-  Filename    : Camera Web Serrver
+ /**********************************************************************
+  Filename    : Camera Web Server
   Description : ESP32 connects to WiFi and prints a url through a serial port.
                 Users visit the site to view the image data ESP32 camera.
   Auther      : www.freenove.com
