@@ -1,5 +1,9 @@
 # ESP32 Camera Project
 
+## Installation
+
+Coming Soon
+
 ## What is the ESP-32 Camera Board?
 
 "The ESP-32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth. The ESP32 series employs either a Tensilica Xtensa LX6 microprocessor in both dual-core and single-core variations, Xtensa LX7 dual-core microprocessor or a single-core RISC-V microprocessor and includes built-in antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power-management modules. ESP32 is created and developed by Espressif Systems, a Chinese company based in Shanghai, and is manufactured by TSMC using their 40 nm proce It is a successor to the ESP8266 microcontroller" [[1]](#1).
