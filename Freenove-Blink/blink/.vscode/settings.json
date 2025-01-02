@@ -1,0 +1,6 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "c:\\Users\\chris\\Documents\\GitHub\\esp32_image_processor\\v5.3.2\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\chris\\.espressif",
+    "idf.portWin": "COM10"
+}
